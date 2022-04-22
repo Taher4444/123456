@@ -1,0 +1,6 @@
+telethon
+python-decouple
+hachoir
+ffmpeg-python
+motor
+dnspython
